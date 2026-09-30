@@ -15,4 +15,4 @@ ShortDescription: Command-line interface for XrmGhost plugin execution and envir
 Moniker: xg
 ReleaseNotesUrl: https://github.com/xrmghost/xrmghost/releases/tag/v1.7.1
 ManifestType: defaultLocale
-ManifestVersion: 1.10.0
+ManifestVersion: 1.12.0
