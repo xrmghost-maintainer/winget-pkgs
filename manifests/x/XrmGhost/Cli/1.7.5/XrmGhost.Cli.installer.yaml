@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
 
 PackageIdentifier: XrmGhost.Cli
-PackageVersion: 1.7.1
+PackageVersion: 1.7.5
 InstallerType: zip
 NestedInstallerType: portable
 NestedInstallerFiles:
@@ -10,7 +10,7 @@ NestedInstallerFiles:
 ArchiveBinariesDependOnPath: true
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/xrmghost/xrmghost/releases/download/v1.7.1/xrmghost-cli-1.7.1-full.zip
-  InstallerSha256: A04B463DBCA0E78848483F9848CCA9FB3A2076A4FCB5E17E52220C21716EDD54
+  InstallerUrl: https://github.com/xrmghost/xrmghost/releases/download/v1.7.5/xrmghost-cli-1.7.5-full.zip
+  InstallerSha256: 42ED2C50E73468D268B4888C2E1ED6F360CB97DF3267E585E904BBED8530D7BD
 ManifestType: installer
 ManifestVersion: 1.12.0
